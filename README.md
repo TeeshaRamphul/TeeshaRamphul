@@ -13,14 +13,14 @@ Actuellement en 3ᵉ année de Bachelor à l’ESGI, je suis **à la recherche d
 
 ## 💻 Projets récents
 
-### **SkillFusion** – Projet de fin de formation (Full Stack)  
+### **SkillFusion** – Développeuse Full Stack
 - Plateforme e-learning DIY réalisée en équipe.  
 - Participation à toutes les étapes : **conception, front-end, back-end et déploiement**.  
 - Back-end : API, routes, controllers, base de données.  
 - Front-end : formulaires, composants réutilisables, responsive design.  
 - Déploiement sur Vercel / Render.  
 
-### **QualiExtra** – Stage Développeuse Web Full Stack (2 mois)  
+### **QualiExtra** – Développeuse Backend  
 - Stage réalisé après avoir réussi un test technique back-end pour valider mes compétences.
 - Entreprise mettant en relation entreprises et auto-entrepreneurs.
 - Développement **back-end** : Node.js, Express.js, routes, controllers et sécurité.  
